@@ -8,6 +8,6 @@
 - openGL is too annoying to learn
 - am currently learning C (on the verge of giving up)
 - 80% of projects you find in my repos are not original
-
+- bare minimum understanding of linear alg
 
 fdgdfgdfgdfghdhfgfdgdgfghh
