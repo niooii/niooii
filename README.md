@@ -15,9 +15,8 @@
 - currently studying computer science independently alongside some courses provided by my school.
 - name is a horribly mispelled version of onion.
 - disc: niooi.
-- insta: [@oinonionoin](https://instagram.com/oinonionoin).
 
-<img src="https://vbr.wocr.tk/badge?page_id=niooii&color=000&text=Visitors&style=for-the-badge&logo=GitBook&logoColor=white&left_color=black&right_color=purple" alt="You shouldn't be seeing this. Visitor Badge failed to load.">
+<!-- <img src="https://vbr.wocr.tk/badge?page_id=niooii&color=000&text=Visitors&style=for-the-badge&logo=GitBook&logoColor=white&left_color=black&right_color=purple" alt="You shouldn't be seeing this. Visitor Badge failed to load."> -->
 
 ## Languages
 <!-- ![](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324) -->
@@ -47,7 +46,7 @@
 ![](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 
 ## Runtimes
-![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![](https://img.shields.io/badge/JVM-ED8B00?style=for-the-badge&logo=oracle&logoColor=black)
 
 ## Build tools
@@ -55,4 +54,4 @@
 ![](https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 ![](https://img.shields.io/badge/cmake-02303A?style=for-the-badge&logo=cmake&logoColor=white)
 
-<sub>Am not very experienced. Do NOT have proficiency with a lot of tools listed.<br>also took this readme from some old repo I cloned a while back.</sub>
+<sub>Am not very experienced. Do NOT have proficiency with some of the tools listed.<br>also took this readme from some old repo I cloned a while back.</sub>
