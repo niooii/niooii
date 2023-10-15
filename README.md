@@ -10,16 +10,16 @@
 
 ## About Me
 - 17\.
-- currently studying computer science in college.
-- name is supposed to be a play on onion. 
+- currently studying computer science independently alongside some courses provided by my school.
+- name is a horribly mispelled version of onion.
 - disc: niooi.
-- insta: [@oinonionoin](instagram.com/oinonionoin).
+- insta: [@oinonionoin](https://instagram.com/oinonionoin).
 
 <img src="https://vbr.wocr.tk/badge?page_id=DxxxxY&color=000&text=Visitors&style=for-the-badge&logo=GitBook&logoColor=white&left_color=black&right_color=purple" alt="You shouldn't be seeing this. Visitor Badge failed to load.">
 
 ## Languages
-[//]: # ![](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324)
-[//]: # ![](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+<!-- ![](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324) -->
+<!-- ![](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white) -->
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=oracle&logoColor=black)
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
@@ -43,7 +43,6 @@
 ![](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 
 ## Runtimes
 ![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -54,4 +53,4 @@
 ![](https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 ![](https://img.shields.io/badge/cmake-02303A?style=for-the-badge&logo=cmake&logoColor=white)
 
-<sub>Moderate experience. Used > 1 on projects. Personally sorted by favoritism.</sub>
+<sub>Am not very experienced. Do NOT have proficiency with a lot of tools listed.</sub>
