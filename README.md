@@ -1,5 +1,6 @@
-<a href="https://google.com"><img src="hehe.gif" alt="Gif loading..."></a>
-
+<div style="text-align:center">
+    <a href="https://google.com"><img src="hehe.gif" alt="Gif loading..."></a>
+</div>
 <!-- <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=dxxxxy&count_private=true&include_all_commits=true&show_icons=true&theme=midnight-purple&icon_color=fff&hide_border=true" alt="You shouldn't be seeing this. Github Readme Stats failed to load.">
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=dxxxxy&theme=midnight-purple&layout=compact&hide_border=true&langs_count=10&exclude_repo=mcp1.8.9op" alt="You shouldn't be seeing this. Github Readme Stats failed to load.">
 <img width="50%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=dxxxxy&theme=midnight-purple&hide_border=true" alt="You shouldn't be seeing this. Github Readme Streak Stats failed to load.">
@@ -56,4 +57,4 @@
 ![](https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 ![](https://img.shields.io/badge/cmake-02303A?style=for-the-badge&logo=cmake&logoColor=white)
 
-<sub>Am not very experienced. Do NOT have proficiency with a lot of tools listed.</sub>
+<sub>Am not very experienced. Do NOT have proficiency with a lot of tools listed.<br>also took this readme from some old repo I cloned a while back.</sub>
