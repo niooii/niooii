@@ -12,10 +12,7 @@
 <img width="50%" align="right" src="https://github-readme-activity-graph.vercel.app/graph?username=niooii&bg_color=000000&color=5e2b99&line=5e2b99&point=ffffff&area=true&hide_border=true" alt="You shouldn't be seeing this. Activity Graph failed to load.">
 
 ## About Me
-- 17\.
-- currently studying computer science independently alongside some courses provided by my school.
-- name is a horribly mispelled version of onion.
-- disc: niooi.
+- 18, Computer Science major
 
 <!-- <img src="https://vbr.wocr.tk/badge?page_id=niooii&color=000&text=Visitors&style=for-the-badge&logo=GitBook&logoColor=white&left_color=black&right_color=purple" alt="You shouldn't be seeing this. Visitor Badge failed to load."> -->
 
