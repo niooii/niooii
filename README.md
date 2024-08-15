@@ -53,5 +53,3 @@
 ![](https://img.shields.io/badge/maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![](https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 ![](https://img.shields.io/badge/cmake-02303A?style=for-the-badge&logo=cmake&logoColor=white)
-
-<sub>Am not very experienced. Do NOT have proficiency with some of the tools listed.<br>also took this readme from some old repo I cloned a while back.</sub>
