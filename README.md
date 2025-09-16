@@ -1,4 +1,7 @@
-# Programmer for fun
+# I'm a programmer for fun
+
+<img width="244" height="349" alt="image" src="https://github.com/user-attachments/assets/71e702cd-586c-4658-a042-37709f74a681" />
+
 
 [visual portfolio](https://niooi.sh/portfolio)
 
